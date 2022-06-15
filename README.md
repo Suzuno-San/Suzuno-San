@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi ,My name is Suzuno! 👋
 
 <!--
 **Suzuno-San/Suzuno-San** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suzuno-San&layout=compact)](https://github.com/Suzuno-San/Suzuno-San)
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suzuno-San&hide=contribs,prs)
